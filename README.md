@@ -23,6 +23,7 @@ This SPFx extension was built to embed Microsoft Teams chats within SharePoint p
 | Version | Date             | Comments        |
 | ------- | ---------------- | --------------- |
 | 1.0     | November 19, 2023 | Initial release |
+| 1.1     | May 10, 2024 | Added support to render without granting Microsoft Graph permissions |
 
 ## Disclaimer
 
